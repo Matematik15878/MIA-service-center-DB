@@ -1,0 +1,21 @@
+license_plate_number,purpose_of_transport,category_of_transport,year_of_manufacture,transport_id,affiliation_marker,type_of_gearbox
+AA1234BB,Motorcycle,A,2010,A1B2,t,AT
+BC5678DE,Moped,A1,2015,C3D4,t,MT
+KM9101OM,Chopper,A,2016,E5F6,f,MT
+IT1122IT,Passenger car,B,2008,G7H8,t,MT
+VE1313AK,Passenger car,B,2021,I9J0,t,AT
+NN1414NN,Scooter,A1,2022,K1L2,f,MT
+LO1515LO,Truck,C,2004,M3N4,t,MT
+AI1616IA,Motorcycle,A,2010,O5P6,f,MT
+UP1717UR,Truck,C1,2009,Q7R8,t,MT
+ST1818TS,Lorry,C,2020,S9T0,t,MT
+LA1929AK,ATV,B1,2018,U1V2,t,MT
+RI2020RI,Passenger car,B,2003,W3X4,f,AT
+KO2121KO,Motorcycle,A,2016,Y5Z6,f,MT
+MM2222MM,Bus,D,2011,123A,t,MT
+AP2323AR,Passenger car,B,2018,BC45,f,MT
+II2424II,Minibus,D1,2019,D678,t,MT
+VO2525VO,Tram,T,1985,EF90,t,
+TT2626TT,Moped,A1,2021,GH12,t,MT
+NN2727NN,Trolleybus,T,2004,IJKL,t,AT
+SS2828SS,Truck,B,2006,MNOP,f,MT
